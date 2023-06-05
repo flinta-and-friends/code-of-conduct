@@ -3,7 +3,7 @@ We are dedicated to creating a meetup where everybody can learn, teach, share, n
 
 And we need your help to achieve that. We expect you to behave according to our Code of Conduct - both at the meetup and in all discussions around the meetup (online and offline).
 
-Please read our full code of conduct before register, discussing online, and before coming to the meetup. But please don't feel intimidated by it - these are simple rules, and they will make life better for everyone at the meetup.
+Please read our full code of conduct before rsvp, discussing online, and before coming to the meetup. But please don't feel intimidated by it - these are simple rules, and they will make life better for everyone at the meetup.
 
 If someone tells you that they were harmed by what you said or did, stand back, believe them and take a moment to reflect. Even if you find yourself not understanding their reasoning, your best reply to that is taking a deep breath and just saying "sorry". That's the baseline of mindfulness and empathy we'd like to see at the meetup.
 
