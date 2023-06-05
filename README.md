@@ -55,7 +55,7 @@ Unacceptable behavior includes, but is not limited to:
 * Other conduct which could reasonably be considered inappropriate in a professional setting.
 
 # Need Help
-If you need help, have any further questions or have any other concerns, please contact a member of conference staff immediately.
+If you need help, have any further questions or have any other concerns, please contact a member of the orgabnizers immediately.
 
 * Contact the conference staff (phone numbers are on your badge)
 * Contact flinta.and.friends@gmail.com
